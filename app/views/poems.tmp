@@ -1,0 +1,41 @@
+<div class="container">
+  <div class="row">
+    <div class="col-sm-3">
+      <!--<h3 class="text-muted">Poets</h3>-->
+      <div  style="width: 60%">
+        <form  id="search-poets" method="post" action="#" role="form">
+          <div class="form-group">
+              <!--<label for="search_poet">Poets</label>-->
+              <input  id="search_poet" type="text" name="search_poet" class="input-xs form-control" placeholder="Poet name" >
+              <!--<label for="search_country">Country</label>-->
+              <select class="input-xs form-control" id="search_country">
+              </select>
+              <select class="input-xs form-control" id="search_type" placeholder="Poem type">
+                <option>Poem type</option>
+                <option>All</option>
+                <option>Balad</option>
+                <option>Elegy</option>
+                <option>Epic</option>
+                <option>Epitaph</option>
+                <option>For children</option>
+                <option>Free verse</option>
+                <option>Imagery</option>
+                <option>Lyric</option>
+                <option>Narative</option>
+                <option>Ode</option>
+                <option>Pastoral</option>
+                <option>Sonet</option>
+              </select>
+              <button type="button" onclick="SearchPoets()" class="btn btn-light input-xs">Search</button>
+          </div>
+        </form>
+      </div>
+      <div id="poets">#poets#</div>
+    </div>
+    <div class="col-lg-9">
+      <div id="poems"></div>
+      <br>
+      <div id="bio" style="font-size: 14px;"></div>
+    </div>
+  </div>
+</div>

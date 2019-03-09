@@ -1,0 +1,42 @@
+****************
+Projekat: Poets
+****************
+Cilj projekta je razvoj web aplikacije pomoću koje će pesnici moći da objavljuju svoje 
+pesme na internetu, a čitaoci da čitaju objavljene pesme. Da bi objavila pesmu, 
+pesnikinja mora biti registrovani korisnik aplikacije, dok čitaoci mogu čitati 
+i bez registracija. Čitaoci koji se registruju mogu dodatno da ocenjuju (rejtinguju) pesme, 
+dok neregistrovani čitaoci to ne mogu.
+
+Aplikacija treba da omogući sledeće procedure:
+
+Registraciju korisnika (pesnika i čitaoca).
+Unos i editovanje profila korisnika.
+Unos i editovanje biografije pesnika.
+
+Logovanje (login, logout) registrovanih korisnika.
+
+Unošenje i objavljivanje nove pesme.
+Editovanje objavljene pesme.
+Brisanje objavljene pesme.
+
+Prevodjenje pesama na druge jezike.
+
+Pretraživanje i čitanje biografija pesnika. 
+Pretraživanje i čitanje pesama po imenu autora.
+Pretraživanje i čitanje pesama po vrsti pesme.
+Pretraživanje i čitanje pesama po godini stvaranja.
+Pretraživanje i čitanje pesama po rejtingu.
+
+Ocenivanje (rejting) pesme.
+
+Kalendar pesničkih događaja.
+Vesti i novosti iz oblasti poezije.
+
+Stranicu koja opisuje namenu aplikacije (About).
+Stranicu koja predstavlja tim developera.
+Kontakt formu za administratora.
+
+Za svaku od navedenih procedura developeri imaju punu slobodu za definisanje potrebnih podataka i kreiranje korsiničkog intefejsa. 
+Osnovna stranica, (Home page) treba da ima atraktivan dizajn. Dizajn osnovne stranice treba da diktira izgled svih ostalih stranica.
+Stranice moraju biti prilagođene za sve vrste uređaja (laptop, tablet, smart telefon).
+Podaci o korisnicima, pesme i ostali sadržaji treba da budu čuvani u bazi podataka.

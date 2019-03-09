@@ -1,0 +1,14 @@
+.input-xs {
+  height: 24px;
+  width: 100%;
+  padding: 2px 5px;
+  margin-bottom: 5px;
+  font-size: 14px;
+  border-radius: 3px;
+}
+
+.fa-spinner {
+  position: fixed; /* or absolute */
+  top: 50%;
+  left: 50%;
+}

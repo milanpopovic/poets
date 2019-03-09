@@ -1,0 +1,32 @@
+*******************************************
+Razvoj web aplikacije "Poets" na Cloud9 IDE
+*******************************************
+
+1. Registracija na Cloud9.
+Na vašu email adresu stići će poziv da se registrujete na Cloud9 i pridružite timu "praktikum".
+Tokom registracije stići će vam novi mejl sa potvrdom i linkom za promenu pasvorda.
+Nakon uspešne registracije moći ćete da se ulogujete na Cloud9 na adresi: https://c9.io/login
+
+2. Cloud9 omogućava da više članova tima učestvuju na istom projektu.  O načinu rada na Cloud9 
+ćemo se naknadno dogovarati. Prof. Popović će rukovoditi projektom pa se njemu možete obraćati 
+na mejl adresi praktikum@mef-lab.com.
+
+3. Aplikaciju ćemo razvijati na engleskom jeziku. To znači da će svi meniji, nazivi programa, 
+varijabli, funkcija,klasa i drugih delova programa biti na engleskom jeziku. 
+Takođe će i svi nazivi podataka u bazi podataka biti na engleskom jeziku.
+
+4. Aplikacija se sastoji od niza funkcionalnih celina. Za svaku funkcionalnu tačku biće zaduženi 
+studenti prema dogovoru sa rukovodiocem projeta (prof. Popovićem).
+
+5. Za razvoj aplikacije koristićemo HTML/CSS/JavaScript/Python jezike a po potrebi i njihove 
+specifične biblioteke ( kao na primer jQuery, Bootstrap itd.). 
+Kao  bazu podataka koristićemo MySql.
+
+6. Ravojno okruženje (IDE) biće Cloud9 IDE - programski editor za pisanje 
+html/css/javascript/python koda i ubuntu terminal za komunikaciju sa operativnim sistemom). 
+Ovo okruženje omogućava i potpuno testiranje aplikacije. 
+
+7. Studenti su obavezni da prisustvuju nastavi na kojoj čemo se upoznavati sa jezicima za 
+razvoj web aplikacija (html/css/javaScript/python) kao i sa Coud9 razvojim okruženjem. 
+Na ovom predmetu nema kolokvijuma i ispita. Ocena se formira na osnovu učešća u nastavi 
+i rada na projektnim zadacima koji će biti dodeljeni svakom studentu.

@@ -1,0 +1,14 @@
+TIPS:
+
+1. Clear bash history:   history -c 
+                         history -w
+                         
+2. Backup your database: mysqldump your_database_name > any_file_name.sql
+
+3. Restore database:     mysql your_database_name < backup.sql
+
+4. Install phpmyadmin:   phpmyadmin-ctl install
+   Start apache2:        service apache2 start(stop)
+   Link address:         https://poets-popovicmilan.c9users.io/phpmyadmin
+
+5. Install mysql.connector: sudo pip install mysql-connector-python
