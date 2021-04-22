@@ -20,7 +20,7 @@ class HTTPHandler(http.server.BaseHTTPRequestHandler):
         self.wfile.write(str.encode(str(response)))
 
 try:
-    port=8080
+    port=9000
     httpd = http.server.HTTPServer(('',port), HTTPHandler)
     print("Server started...port:",port)
     httpd.serve_forever()
